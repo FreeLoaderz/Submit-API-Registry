@@ -20,7 +20,7 @@
         { "url": "https://cspa.panl.org/submit-api/submit/tx", "location": "Ireland" }
       ] },
       "SANTO": { "links": [
-        { "url": "", "location": "US" }
+        { "url": "http://66.94.107.201:8090/api/submit/tx", "location": "US - East" }
       ] },
       "ARARE": { "links": [
         { "url": "http://154.53.57.88:8090/api/submit/tx", "location": "US - West" },
