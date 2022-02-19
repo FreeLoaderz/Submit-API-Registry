@@ -31,6 +31,9 @@
       ] },
       "PIADA": { "links": [
         { "url": "https://east.piada.io/freeloaderz", "location": "US - East" }
+      ] },
+      "APEX": { "links": [
+        { "url": "https://submit-api.apexpool.info/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
