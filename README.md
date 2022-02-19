@@ -7,7 +7,7 @@ When submitting a pull request please add your information in the following form
 "Pool_Ticker": { "links": [ 
         { "url": "https://submit.api.com:port/api/submit/tx", "location": "US - East" },
         { "url": "http://submit.api.com:port/api/submit/tx", "location": "UK" },
-        { "url": "https://cspa.panl.org/submit-api/submit/tx", "location": "Spain" }
+        { "url": "https://submit-api.org/api/submit/tx", "location": "Spain" }
       ] }
 ```
 
