@@ -21,6 +21,9 @@
       ] },
       "SANTO": { "links": [
         { "url": "", "location": "US" }
+      ] },
+      "Pool_Ticker": { "ALoop": [ 
+        { "url": "http://144.126.135.66:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
