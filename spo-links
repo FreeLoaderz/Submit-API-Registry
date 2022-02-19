@@ -21,6 +21,10 @@
       ] },
       "SANTO": { "links": [
         { "url": "", "location": "US" }
+      ] },
+      "ARARE": { "links": [
+        { "url": "http://154.53.57.88:8090/api/submit/tx", "location": "US - West" },
+        { "url": "http://137.184.104.185:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
