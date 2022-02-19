@@ -25,6 +25,9 @@
       "ARARE": { "links": [
         { "url": "http://154.53.57.88:8090/api/submit/tx", "location": "US - West" },
         { "url": "http://137.184.104.185:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "ALOOP": { "links": [ 
+        { "url": "http://144.126.135.66:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
