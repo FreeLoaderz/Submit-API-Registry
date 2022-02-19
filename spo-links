@@ -28,6 +28,9 @@
       ] },
       "ALOOP": { "links": [ 
         { "url": "http://144.126.135.66:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "PIADA": { "links": [
+        { "url": "https://east.piada.io/freeloaderz", "location": "US - East" }
       ] }
     }
   }
