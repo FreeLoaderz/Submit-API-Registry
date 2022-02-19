@@ -18,10 +18,6 @@ Don't forget to add a comma to the end of the entry before your addition.
 To make the merge process as smooth as possible, please allow for approvers to edit the PR.
 
 
-
-# Registration
-
-
 # Submit-API-Registry
 Freeloaderz SPOs and their associated submit API URL.
 
