@@ -1,0 +1,30 @@
+{
+  "adapools": {
+    "about": {
+      "name": "FreeLoaderz",
+      "description_short": "A Coalition of Cardano Stake Pools offering url submit-api access to their relay servers.",
+      "description_long": "",
+      "website": "https://freeloaderz.io",
+      "url_png_icon_64x64": "",
+      "url_png_logo": "",
+      "social": {
+        "twitter_handle": "@FreeLoaderz2022",
+        "discord_handle": "XzHKtaNyvb",
+        "github_handle": "FreeLoaderz"
+      }
+    },
+    "members": {
+      "proxy services": { "links": [ 
+        {"url": "https://usa.freeloaderz.io/api/submit/tx", "location": "US - East"} 
+      ] },
+      "PANL": { "links": [ 
+        { "url": "https://xspo.panl.org/submit-api/submit/tx", "location": "US - East" },
+        { "url": "https://cmdp.panl.org/submit-api/submit/tx", "location": "Singapore" },
+        { "url": "https://cspa.panl.org/submit-api/submit/tx", "location": "Ireland" }
+      ] },
+      "SANTO": { "links": [
+        { "url": "", "location": "US" }
+      ] }
+    }
+  }
+}
