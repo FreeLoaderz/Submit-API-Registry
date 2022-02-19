@@ -1,12 +1,9 @@
 {
-  "adapools": {
+  "FreeLoaderz": {
     "about": {
       "name": "FreeLoaderz",
       "description_short": "A Coalition of Cardano Stake Pools offering url submit-api access to their relay servers.",
-      "description_long": "",
       "website": "https://freeloaderz.io",
-      "url_png_icon_64x64": "",
-      "url_png_logo": "",
       "social": {
         "twitter_handle": "@FreeLoaderz2022",
         "discord_handle": "XzHKtaNyvb",
