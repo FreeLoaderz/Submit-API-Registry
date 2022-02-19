@@ -34,6 +34,9 @@
       ] },
       "APEX": { "links": [
         { "url": "https://submit-api.apexpool.info/api/submit/tx", "location": "Germany" }
+      ] },
+      "ONE": { "links": [
+        { "url": "https://api.cr0ss0ver.com/api/submit/tx", "location": "Canada - Toronto" }
       ] }
     }
   }
