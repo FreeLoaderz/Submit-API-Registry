@@ -43,6 +43,9 @@
       ] },
       "EURO": { "links": [ 
         { "url": "https://submitapi.cardano-tools.io/api/submit/tx", "location": "Germany" }
+      ] },
+      "RIGHT": { "links": [
+        { "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "location": "South East Asia" }
       ] }
     }
   }
