@@ -50,6 +50,9 @@
       "CBROS": { "links": [ 
         { "url": "http://79.170.252.37:8090/api/submit/tx", "location": "Europe - Czech Rep." },
         { "url": "http://24.12.164.151:8090/api/submit/tx", "location": "US - Central" }
+      ] },
+      "RABIT": { "links": [ 
+        { "url": "http://18.133.104.22:8090/api/submit/tx", "location": "UK - London" }
       ] }
     }
   }
