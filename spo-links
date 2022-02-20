@@ -56,6 +56,9 @@
       ] },
       "ARA": { "links": [ 
         { "url": "http://relay2.ara-stakepool.com/api/submit/tx", "location": "France" }
+      ] },
+       "ANTRX": { "links": [ 
+        { "url": "http://antrix-blockchain.com:8090/api/submit/tx", "location": "US - Midwest" }
       ] }
     }
   }
