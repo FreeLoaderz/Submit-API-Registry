@@ -53,6 +53,9 @@
       ] },
       "RABIT": { "links": [ 
         { "url": "http://18.133.104.22:8090/api/submit/tx", "location": "UK - London" }
+      ] },
+      "ARA": { "links": [ 
+        { "url": "http://relay2.ara-stakepool.com/api/submit/tx", "location": "France" }
       ] }
     }
   }
