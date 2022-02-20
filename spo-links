@@ -43,6 +43,9 @@
       ] },
       "EURO": { "links": [ 
         { "url": "https://submitapi.cardano-tools.io/api/submit/tx", "location": "Germany" }
+      ] },
+      "RABIT": { "links": [ 
+        { "url": "http://18.133.104.22:8090/api/submit/tx", "location": "UK - London" }
       ] }
     }
   }
