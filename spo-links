@@ -62,6 +62,9 @@
       ] },
       "TILI": { "links": [ 
         { "url": "https://submit-api.tilipool.com/api/submit/tx, "location": "Germany" }
+      ] },
+      "ECP": { "links": [ 
+        { "url": "http://143.110.234.149:8090/api/submit/tx ", "location": "US - West" }
       ] }
     }
   }
