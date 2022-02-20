@@ -66,8 +66,11 @@
       "ECP": { "links": [ 
         { "url": "http://143.110.234.149:8090/api/submit/tx", "location": "US - West" }
       ] },
+      "SQRL": { "links": [ 
+        { "url": "http://5.89.17.242:8090/api/submit/tx", "location": "Europe - Italy" }
+      ] },
       "MINI1": { "links": [ 
-        { "url": "http://terrier.internet-box.ch:8090/api/submit/tx", "location": "Switzerland" }
+        { "url": "http://terrier.internet-box.ch:8090/api/submit/tx", "location": "Switzerland"
       ] }
     }
   }
