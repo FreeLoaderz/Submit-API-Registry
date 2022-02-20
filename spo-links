@@ -40,6 +40,9 @@
       ] },
       "ENVY": { "links": [ 
         { "url": "http://209.126.82.39:8090/api/submit/tx", "location": "US - Central" }
+      ] },
+      "EURO": { "links": [ 
+        { "url": "https://submitapi.cardano-tools.io/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
