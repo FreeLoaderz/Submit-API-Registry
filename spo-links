@@ -37,6 +37,9 @@
       ] },
       "ONE": { "links": [
         { "url": "https://api.cr0ss0ver.com/api/submit/tx", "location": "Canada - Toronto" }
+      ] },
+      "ENVY": { "links": [ 
+        { "url": "http://209.126.82.39:8090/api/submit/tx", "location": "US - Central" }
       ] }
     }
   }
