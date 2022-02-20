@@ -51,6 +51,9 @@
         { "url": "http://79.170.252.37:8090/api/submit/tx", "location": "Europe - Czech Rep." },
         { "url": "http://24.12.164.151:8090/api/submit/tx", "location": "US - Central" }
       ] },
+      "RABIT": { "links": [ 
+        { "url": "http://18.133.104.22:8090/api/submit/tx", "location": "UK - London" }
+      ] },
       "TILI": { "links": [ 
         { "url": "http://65.21.255.33:8090/api/submit/tx", "location": "Finland" },
         { "url": "http://78.46.187.173:8090/api/submit/tx", "location": "Germany" }
