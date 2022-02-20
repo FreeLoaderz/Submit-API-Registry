@@ -59,6 +59,9 @@
       ] },
        "ANTRX": { "links": [ 
         { "url": "http://antrix-blockchain.com:8090/api/submit/tx", "location": "US - Midwest" }
+      ] },
+      "TILI": { "links": [ 
+        { "url": "https://submit-api.tilipool.com/api/submit/tx, "location": "Germany" }
       ] }
     }
   }
