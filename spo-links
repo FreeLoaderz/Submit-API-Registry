@@ -59,6 +59,9 @@
       ] },
        "ANTRX": { "links": [ 
         { "url": "http://antrix-blockchain.com:8090/api/submit/tx", "location": "US - Midwest" }
+      ] },
+      "ECP": { "links": [ 
+        { "url": "http://143.110.234.149:8090/api/submit/tx ", "location": "US - West" }
       ] }
     }
   }
