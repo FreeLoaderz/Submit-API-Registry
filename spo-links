@@ -70,7 +70,10 @@
         { "url": "http://5.89.17.242:8090/api/submit/tx", "location": "Europe - Italy" }
       ] },
       "MINI1": { "links": [ 
-        { "url": "http://terrier.internet-box.ch:8090/api/submit/tx", "location": "Switzerland"
+        { "url": "http://terrier.internet-box.ch:8090/api/submit/tx", "location": "Switzerland" }
+      ] },
+      "BOLD": { "links": [ 
+        { "url": "http://20.98.70.24:8090/api/submit/tx", "location": "US - West" }
       ] }
     }
   }
