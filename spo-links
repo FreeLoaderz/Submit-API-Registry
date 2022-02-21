@@ -80,6 +80,9 @@
       ] },
       "FATTY": { "links": [ 
         { "url": "http://143.198.131.239:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "EPOCH": { "links": [ 
+        { "url": "http://freeloader.adanetworks.xyz:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
