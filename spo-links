@@ -77,6 +77,9 @@
       ] },
       "RETRO": { "links": [ 
         { "url": "http://110.174.218.135:8090/api/submit/tx", "location": "Australia" }
+      ] },
+      "STLL": { "links": [ 
+        { "url": "http://45.79.82.195:8090/api/submit/tx", "location": "US - West" }
       ] }
     }
   }
