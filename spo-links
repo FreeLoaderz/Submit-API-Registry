@@ -80,6 +80,9 @@
       ] },
       "FATTY": { "links": [ 
         { "url": "http://143.198.131.239:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "WELL": { "links": [
+        { "url": "http://144.126.143.24:8090/api/submit/tx", "location": "US - Central" }
       ] }
     }
   }
