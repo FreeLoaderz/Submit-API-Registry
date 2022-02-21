@@ -75,6 +75,8 @@
       "BOLD": { "links": [ 
         { "url": "http://20.98.70.24:8090/api/submit/tx", "location": "US - West" }
       ] }
+      "DOT5": { "links": [
+        { "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "location": "US - East" }
     }
   }
 }
