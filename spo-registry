@@ -24,6 +24,9 @@
       ] },
       "SANTO": { "links": [
         { "url": "", "location": "US" }
+      ] },
+      "STOIC": { "links": [
+        { "url": "http://stoicpool.ddns.net/api/submit/tx/", "location": "London" }
       ] }
     }
   }
