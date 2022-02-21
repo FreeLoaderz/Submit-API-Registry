@@ -74,6 +74,9 @@
       ] },
       "BOLD": { "links": [ 
         { "url": "http://20.98.70.24:8090/api/submit/tx", "location": "US - West" }
+      ] },
+      "RETRO": { "links": [ 
+        { "url": "http://110.174.218.135:8090/api/submit/tx", "location": "Australia" }
       ] }
     }
   }
