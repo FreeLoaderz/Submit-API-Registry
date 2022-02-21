@@ -26,7 +26,7 @@
         { "url": "", "location": "US" }
       ] },
       "STOIC": { "links": [
-        { "url": "http://stoicpool.ddns.net/api/submit/tx/", "location": "London" }
+        { "url": "http://stoicpool.ddns.net:8090/api/submit/tx", "location": "London" }
       ] }
     }
   }
