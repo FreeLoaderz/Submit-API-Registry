@@ -83,6 +83,9 @@
       ] },
       "WELL": { "links": [
         { "url": "http://144.126.143.24:8090/api/submit/tx", "location": "US - Central" }
+      ] },
+      "EPOCH": { "links": [ 
+        { "url": "http://freeloader.adanetworks.xyz:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
