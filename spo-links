@@ -86,6 +86,9 @@
       ] },
       "EPOCH": { "links": [ 
         { "url": "http://freeloader.adanetworks.xyz:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "STLL": { "links": [ 
+        { "url": "http://45.79.82.195:8090/api/submit/tx", "location": "US - West" }
       ] }
     }
   }
