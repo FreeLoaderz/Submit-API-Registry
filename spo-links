@@ -92,6 +92,10 @@
       ] },
       "DOT5": { "links": [
         { "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "LSSP": { "links": [
+        { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" }
+      ] } 
     }
   }
 }
