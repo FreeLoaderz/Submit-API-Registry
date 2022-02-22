@@ -101,6 +101,9 @@
       ] }, 
       "BLU": { "links": [ 
         { "url": "http://207.180.243.108:8090/api/submit/tx", "location": "Germany" }
+      ] },
+      "NEXUS": { "links": [ 
+        { "url": "http://46.4.112.21:8090/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
