@@ -87,6 +87,15 @@
       "EPOCH": { "links": [ 
         { "url": "http://freeloader.adanetworks.xyz:8090/api/submit/tx", "location": "US - East" }
       ] },
+      "STLL": { "links": [ 
+        { "url": "http://45.79.82.195:8090/api/submit/tx", "location": "US - West" }
+      ] },
+      "DOT5": { "links": [
+        { "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "LSSP": { "links": [
+        { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" }
+      ] }, 
       "XEBYTE": { "links": [ 
         { "url": "http://xebyte.com:8090/api/submit/tx", "location": "US - Central" }
       ] }
