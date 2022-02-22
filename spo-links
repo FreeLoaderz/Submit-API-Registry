@@ -98,6 +98,9 @@
       ] }, 
       "XEBYTE": { "links": [ 
         { "url": "http://xebyte.com:8090/api/submit/tx", "location": "US - Central" }
+      ] }, 
+      "BLU": { "links": [ 
+        { "url": "http://207.180.243.108:8090/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
