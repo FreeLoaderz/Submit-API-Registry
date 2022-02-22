@@ -86,6 +86,9 @@
       ] },
       "EPOCH": { "links": [ 
         { "url": "http://freeloader.adanetworks.xyz:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "XEBYTE": { "links": [ 
+        { "url": "http://xebyte.com:8090/api/submit/tx", "location": "US - Central" }
       ] }
     }
   }
