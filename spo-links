@@ -95,7 +95,10 @@
       ] },
       "LSSP": { "links": [
         { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" }
-      ] } 
+      ] }, 
+      "XEBYTE": { "links": [ 
+        { "url": "http://xebyte.com:8090/api/submit/tx", "location": "US - Central" }
+      ] }
     }
   }
 }
