@@ -90,6 +90,8 @@
       "STLL": { "links": [ 
         { "url": "http://45.79.82.195:8090/api/submit/tx", "location": "US - West" }
       ] }
+      "DOT5": { "links": [
+        { "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "location": "US - East" }
     }
   }
 }
