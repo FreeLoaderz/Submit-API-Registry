@@ -101,6 +101,9 @@
       ] }, 
       "BLU": { "links": [ 
         { "url": "http://207.180.243.108:8090/api/submit/tx", "location": "Germany" }
+      ] },
+      "OTG": { "links": [
+        { "url": "https://getajob.adamantium.online/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
