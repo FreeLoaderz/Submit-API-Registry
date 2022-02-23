@@ -110,6 +110,9 @@
       ] },
       "TOPO⚡": { "links": [ 
         { "url": "http://public.topopool.com:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "4WARD": { "links": [ 
+        { "url": "https://relay2.swiftcryptollc.com/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
