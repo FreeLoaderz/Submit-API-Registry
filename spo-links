@@ -113,6 +113,9 @@
       ] },
       "4WARD": { "links": [ 
         { "url": "https://relay2.swiftcryptollc.com/api/submit/tx", "location": "Germany" }
+      ] },
+      "MOAI": { "links": [ 
+        { "url": "http://submit.moaipool.com:8090/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
