@@ -107,6 +107,9 @@
       ] },
       "NEXUS": { "links": [ 
         { "url": "http://46.4.112.21:8090/api/submit/tx", "location": "Germany" }
+      ] },
+      "TOPO⚡": { "links": [ 
+        { "url": "http://public.topopool.com:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
