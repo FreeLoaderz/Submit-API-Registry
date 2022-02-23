@@ -66,6 +66,9 @@
       "ECP": { "links": [ 
         { "url": "http://143.110.234.149:8090/api/submit/tx", "location": "US - West" }
       ] },
+      "STOIC": { "links": [
+        { "url": "http://stoicpool.ddns.net:8090/api/submit/tx", "location": "London" }
+      ] },
       "SQRL": { "links": [ 
         { "url": "http://5.89.17.242:8090/api/submit/tx", "location": "Europe - Italy" }
       ] },
