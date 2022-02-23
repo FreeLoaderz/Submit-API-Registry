@@ -104,6 +104,9 @@
       ] },
       "OTG": { "links": [
         { "url": "https://getajob.adamantium.online/api/submit/tx", "location": "US - East" }
+      ] },
+      "NEXUS": { "links": [ 
+        { "url": "http://46.4.112.21:8090/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
