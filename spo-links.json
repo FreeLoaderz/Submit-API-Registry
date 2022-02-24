@@ -121,6 +121,9 @@
       ] },
       "MOAI": { "links": [ 
         { "url": "http://submit.moaipool.com:8090/api/submit/tx", "location": "Germany" }
+      ] },
+      "HOLA": { "links": [ 
+        { "url": "http://192.99.4.206:8090/api/submit/tx", "location": "Canada" }
       ] }
     }
   }
