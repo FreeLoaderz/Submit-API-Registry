@@ -124,6 +124,9 @@
       ] },
       "HOLA": { "links": [ 
         { "url": "http://192.99.4.206:8090/api/submit/tx", "location": "Canada" }
+      ] },
+      "HEDGE": { "links": [ 
+        { "url": "http://143.198.28.185:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
