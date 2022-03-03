@@ -124,6 +124,9 @@
       ] },
       "HEDGE": { "links": [ 
         { "url": "http://143.198.28.185:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "lido": { "links": [ 
+        { "url": "https://tx.lidonation.com/api/submit/tx", "location": "US - Central" }
       ] }
     }
   }
