@@ -36,7 +36,7 @@
         { "url": "https://submit-api.apexpool.info/api/submit/tx", "location": "Germany" }
       ] },
       "ONE": { "links": [
-        { "url": "https://api.cr0ss0ver.com/api/submit/tx", "location": "Canada - Toronto" }
+        { "url": "http://api.cr0ss0ver.com:8090/api/submit/tx", "location": "Canada - Toronto" }
       ] },
       "ENVY": { "links": [ 
         { "url": "http://209.126.82.39:8090/api/submit/tx", "location": "US - Central" }
