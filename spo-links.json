@@ -14,6 +14,9 @@
       "proxy services": { "links": [ 
         {"url": "https://usa.freeloaderz.io/api/submit/tx", "location": "US - East"} 
       ] },
+      "proxy services": { "links": [ 
+        {"url": "https://europe.freeloaderz.io/api/submit/tx", "location": "Europe"} 
+      ] },
       "PANL": { "links": [ 
         { "url": "https://xspo.panl.org/submit-api/submit/tx", "location": "US - East" },
         { "url": "https://cmdp.panl.org/submit-api/submit/tx", "location": "Singapore" },
