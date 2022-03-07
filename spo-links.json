@@ -133,6 +133,10 @@
       ] },
       "DEGAS": { "links": [
         { "url": "http://194.233.67.33:8090/api/submit/tx", "location": "Singapore" }
+      ] },
+      "CSCS": { "links": [ 
+        { "url": "http://34.198.241.236:8090/api/submit/tx", "location": "US - East" },
+        { "url": "http://54.232.189.129:8090/api/submit/tx", "location": "Brasil" }
       ] }
     }
   }
