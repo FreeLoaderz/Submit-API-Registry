@@ -132,7 +132,7 @@
         { "url": "https://tx.lidonation.com/api/submit/tx", "location": "US - Central" }
       ] },
       "DEGAS": { "links": [
-        { "url": "http://139.162.29.218:8090/api/submit/tx", "location": "Singapore" }
+        { "url": "http://194.233.67.33:8090/api/submit/tx", "location": "Singapore" }
       ] }
     }
   }
