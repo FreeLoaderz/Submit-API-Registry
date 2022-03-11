@@ -140,6 +140,9 @@
       ] },
       "MNSTR": { "links": [ 
         { "url": "http://freeloaderz-mnstr-pool-submit.access.ly:8090/api/submit/tx", "location": "US - Midwest" }
+      ] },
+      "JED": { "links": [ 
+        { "url": "https://submit-api.jed.id.au/api/submit/tx", "location": "Australia" }
       ] }
     }
   }
