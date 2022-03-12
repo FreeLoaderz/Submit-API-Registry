@@ -95,6 +95,7 @@
       ] },
       "LSSP": { "links": [
         { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" }
+        { "url": "http://192.3.254.150:8090/api/submit/tx", "location": "US - East" }
       ] } 
     }
   }
