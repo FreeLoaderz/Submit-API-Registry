@@ -138,6 +138,9 @@
         { "url": "http://34.198.241.236:8090/api/submit/tx", "location": "US - East" },
         { "url": "http://54.232.189.129:8090/api/submit/tx", "location": "Brasil" }
       ] },
+      "DEGAS": { "links": [
+        { "url": "https://api.adacoinz.com/api/submit/tx", "location": "US - East" }
+      ] },      
       "MNSTR": { "links": [ 
         { "url": "http://freeloaderz-mnstr-pool-submit.access.ly:8090/api/submit/tx", "location": "US - Midwest" }
       ] },
