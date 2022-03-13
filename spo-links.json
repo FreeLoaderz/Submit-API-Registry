@@ -144,6 +144,9 @@
       "MNSTR": { "links": [ 
         { "url": "http://freeloaderz-mnstr-pool-submit.access.ly:8090/api/submit/tx", "location": "US - Midwest" }
       ] },
+      "46S": { "links": [ 
+        { "url": "http://submit.au.ngrok.io:80/api/submit/tx", "location": "New Zealand" }
+      ] },
       "JED": { "links": [ 
         { "url": "https://submit-api.jed.id.au/api/submit/tx", "location": "Australia" }
       ] }
