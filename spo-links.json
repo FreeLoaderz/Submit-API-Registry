@@ -149,6 +149,9 @@
       ] },
       "JED": { "links": [ 
         { "url": "https://submit-api.jed.id.au/api/submit/tx", "location": "Australia" }
+      ] },
+      "FAIR": { "links": [ 
+        { "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "location": "Austria" }
       ] }
     }
   }
