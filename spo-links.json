@@ -150,6 +150,11 @@
       ] },
       "FAIR": { "links": [ 
         { "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "location": "Austria" }
+      ] },
+      "LATIN": { "links": [
+        { "url": "https://49.12.109.67:8090/api/submit/tx", "location": "Falkenstein" },
+        { "url": "https://135.181.89.185:8090/api/submit/tx", "location": "Helsinki" },
+        { "url": "https://209.126.81.166:8090/api/submit/tx", "location": "USC1 St Louis" }
       ] }
     }
   }
