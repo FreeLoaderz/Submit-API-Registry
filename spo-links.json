@@ -150,6 +150,9 @@
       ] },
       "FAIR": { "links": [ 
         { "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "location": "Austria" }
+      ] },
+      "LAMP": { "links": [ 
+        { "url": "https://bitlamp.ch:8090/api/submit/tx", "location": "Switzerland" }
       ] }
     }
   }
