@@ -151,6 +151,9 @@
       "FAIR": { "links": [ 
         { "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "location": "Austria" }
       ] },
+      "MPOL": { "links": [ 
+        { "url": "http://217.28.30.43:8090/api/submit/tx", "location": "Canada" }
+      ] },
       "LAMP": { "links": [ 
         { "url": "http://bitlamp.ch:8090/api/submit/tx", "location": "Switzerland" }
       ] },
