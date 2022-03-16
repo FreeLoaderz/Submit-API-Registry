@@ -151,6 +151,9 @@
       "FAIR": { "links": [ 
         { "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "location": "Austria" }
       ] },
+      "LAMP": { "links": [ 
+        { "url": "http://bitlamp.ch:8090/api/submit/tx", "location": "Switzerland" }
+      ] },
       "LATIN": { "links": [
         { "url": "http://49.12.109.67:8090/api/submit/tx", "location": "Falkenstein" },
         { "url": "http://135.181.89.185:8090/api/submit/tx", "location": "Helsinki" },
