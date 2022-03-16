@@ -97,7 +97,8 @@
         { "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "location": "US - East" }
       ] },
       "LSSP": { "links": [
-        { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" }
+        { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" },
+        { "url": "http://192.3.254.150:8090/api/submit/tx", "location": "US - East" }
       ] }, 
       "XEBYTE": { "links": [ 
         { "url": "http://xebyte.com:8090/api/submit/tx", "location": "US - Central" }
@@ -152,6 +153,14 @@
       ] },
       "MPOL": { "links": [ 
         { "url": "http://217.28.30.43:8090/api/submit/tx", "location": "Canada" }
+      ] },
+      "LAMP": { "links": [ 
+        { "url": "http://bitlamp.ch:8090/api/submit/tx", "location": "Switzerland" }
+      ] },
+      "LATIN": { "links": [
+        { "url": "http://49.12.109.67:8090/api/submit/tx", "location": "Falkenstein" },
+        { "url": "http://135.181.89.185:8090/api/submit/tx", "location": "Helsinki" },
+        { "url": "http://209.126.81.166:8090/api/submit/tx", "location": "USC1 St Louis" }
       ] }
     }
   }
