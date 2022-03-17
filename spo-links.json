@@ -160,7 +160,10 @@
       "LATIN": { "links": [
         { "url": "http://49.12.109.67:8090/api/submit/tx", "location": "Falkenstein" },
         { "url": "http://135.181.89.185:8090/api/submit/tx", "location": "Helsinki" },
-        { "url": "http://209.126.81.166:8090/api/submit/tx", "location": "USC1 St Louis" }
+        { "url": "http://209.126.81.166:8090/api/submit/tx", "location": "USC1 St Louis" },
+      "RSV": { "links": [ 
+        { "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "location": "US - East" },
+      ] }
       ] }
     }
   }
