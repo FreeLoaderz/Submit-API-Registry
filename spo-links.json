@@ -164,7 +164,6 @@
        ] },
       "RSV": { "links": [ 
         { "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "location": "US - East" }
-      ] },
       ] }
     }
   }
