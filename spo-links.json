@@ -163,7 +163,7 @@
         { "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "location": "US - East" }
       ] },
        "Faso": { "links": [ 
-        { "url": "http://66.94.119:8090/api/submit/tx", "location": "US - Central" }
+        { "url": "http://66.94.119.88:8090/api/submit/tx", "location": "US - Central" }
       ] }
     }
   }
