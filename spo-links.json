@@ -164,6 +164,9 @@
        ] },
       "Faso": { "links": [ 
         { "url": "http://66.94.119.88:8090/api/submit/tx", "location": "US - Central" }
+      ] },
+      "VLHLA": { "links": [ 
+        { "url": "http://202.61.207.48:8090/api/submit/tx", "location": "US - Central" }
       ] }
     }
   }
