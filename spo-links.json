@@ -164,6 +164,9 @@
        ] },
       "Faso": { "links": [ 
         { "url": "http://66.94.119.88:8090/api/submit/tx", "location": "US - Central" }
+      ] },
+      "VLHLA": { "links": [ 
+        { "url": "http://node2.valhallapool.net:8090/api/submit/tx", "location": "Germany" }
       ] }
     }
   }
