@@ -170,6 +170,9 @@
       ] },
       "T2H": { "links": [ 
         { "url": "http://relay1.techs2help.ch:8091/api/submit/tx", "location": "Switzerland" }
+      ] },
+      "BBHMM": { "links": [ 
+        { "url": "http://freeloaderz.bbhmm.net:809/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
