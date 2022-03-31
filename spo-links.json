@@ -170,6 +170,9 @@
       ] },
       "T2H": { "links": [ 
         { "url": "http://relay1.techs2help.ch:8091/api/submit/tx", "location": "Switzerland" }
+      ] },
+      "ADAOZ": { "links": [ 
+        { "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "location": "Frankfurt" }
       ] }
     }
   }
