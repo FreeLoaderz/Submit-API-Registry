@@ -176,7 +176,7 @@
       ] },
       "BBHMM": { "links": [ 
         { "url": "http://freeloaderz.bbhmm.net:8090/api/submit/tx", "location": "US - East" }
-      ] },
+      ] }
     }
   }
 }
