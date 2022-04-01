@@ -173,6 +173,9 @@
       ] },
       "ADAOZ": { "links": [ 
         { "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "location": "Frankfurt" }
+      ] },
+      "BBHMM": { "links": [ 
+        { "url": "http://freeloaderz.bbhmm.net:8090/api/submit/tx", "location": "US - East" }
       ] }
     }
   }
