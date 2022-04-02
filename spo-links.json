@@ -176,6 +176,9 @@
       ] },
       "BBHMM": { "links": [ 
         { "url": "http://freeloaderz.bbhmm.net:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "ZIBER": { "links": [
+        { "url": "http://pool.grafleck.com:8090/api/submit/tx", "location": "Canada - Central" }
       ] }
     }
   }
