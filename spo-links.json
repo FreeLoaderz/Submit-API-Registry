@@ -169,7 +169,7 @@
         { "url": "http://node2.valhallapool.net:8090/api/submit/tx", "location": "Germany" }
       ] },
       "ANEW": { "links": [
-        { "url": "http://172.105.186.146:8090/api/submit/tx", "location": "Australia" }
+        { "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "location": "Australia" }
       ] }
     }
   }
