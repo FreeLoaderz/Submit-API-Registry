@@ -179,6 +179,9 @@
       ] },
       "ZIBER": { "links": [
         { "url": "http://pool.grafleck.com:8090/api/submit/tx", "location": "Canada - Central" }
+      ] },
+      "ANEW": { "links": [
+        { "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "location": "Australia" }
       ] }
     }
   }
