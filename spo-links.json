@@ -79,7 +79,7 @@
         { "url": "http://20.98.70.24:8090/api/submit/tx", "location": "US - West" }
       ] },
       "RETRO": { "links": [ 
-        { "url": "http://110.174.218.135:8090/api/submit/tx", "location": "Australia" }
+        { "url": "http://retropool.ddns.net:8090/api/submit/tx", "location": "Australia" }
       ] },
       "WELL": { "links": [
         { "url": "http://144.126.143.24:8090/api/submit/tx", "location": "US - Central" }
