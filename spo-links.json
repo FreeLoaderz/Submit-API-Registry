@@ -182,6 +182,9 @@
       ] },
       "ANEW": { "links": [
         { "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "location": "Australia" }
+      ] },
+      "N2O": { "links": [
+        { "url": "http://88.80.147.114:7878/api/submit/tx", "location": "Bulgaria - Sofia" }
       ] }
     }
   }
