@@ -14,6 +14,9 @@
       "proxy services": { "links": [ 
         {"url": "https://usa.freeloaderz.io/api/submit/tx", "location": "US - East"} 
       ] },
+      "proxy services": { "links": [ 
+        {"url": "https://europe.freeloaderz.io/api/submit/tx", "location": "Europe"} 
+      ] },
       "PANL": { "links": [ 
         { "url": "https://xspo.panl.org/submit-api/submit/tx", "location": "US - East" },
         { "url": "https://cmdp.panl.org/submit-api/submit/tx", "location": "Singapore" },
@@ -36,7 +39,7 @@
         { "url": "https://submit-api.apexpool.info/api/submit/tx", "location": "Germany" }
       ] },
       "ONE": { "links": [
-        { "url": "https://api.cr0ss0ver.com/api/submit/tx", "location": "Canada - Toronto" }
+        { "url": "http://api.cr0ss0ver.com:8090/api/submit/tx", "location": "Canada - Toronto" }
       ] },
       "ENVY": { "links": [ 
         { "url": "http://209.126.82.39:8090/api/submit/tx", "location": "US - Central" }
@@ -57,11 +60,8 @@
       "ARA": { "links": [ 
         { "url": "http://relay2.ara-stakepool.com/api/submit/tx", "location": "France" }
       ] },
-       "ANTRX": { "links": [ 
+      "ANTRX": { "links": [ 
         { "url": "http://antrix-blockchain.com:8090/api/submit/tx", "location": "US - Midwest" }
-      ] },
-      "TILI": { "links": [ 
-        { "url": "https://submit-api.tilipool.com/api/submit/tx", "location": "Germany" }
       ] },
       "ECP": { "links": [ 
         { "url": "http://143.110.234.149:8090/api/submit/tx", "location": "US - West" }
@@ -79,10 +79,7 @@
         { "url": "http://20.98.70.24:8090/api/submit/tx", "location": "US - West" }
       ] },
       "RETRO": { "links": [ 
-        { "url": "http://110.174.218.135:8090/api/submit/tx", "location": "Australia" }
-      ] },
-      "FATTY": { "links": [ 
-        { "url": "http://143.198.131.239:8090/api/submit/tx", "location": "US - East" }
+        { "url": "http://retropool.ddns.net:8090/api/submit/tx", "location": "Australia" }
       ] },
       "WELL": { "links": [
         { "url": "http://144.126.143.24:8090/api/submit/tx", "location": "US - Central" }
@@ -97,7 +94,8 @@
         { "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "location": "US - East" }
       ] },
       "LSSP": { "links": [
-        { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" }
+        { "url": "http://23.95.44.18:8090/api/submit/tx", "location": "US - South" },
+        { "url": "http://192.3.254.150:8090/api/submit/tx", "location": "US - East" }
       ] }, 
       "XEBYTE": { "links": [ 
         { "url": "http://xebyte.com:8090/api/submit/tx", "location": "US - Central" }
@@ -111,7 +109,7 @@
         { "url": "https://yabum.adamantium.online/api/submit/tx", "location": "Germany" }
       ] },
       "NEXUS": { "links": [ 
-        { "url": "http://46.4.112.21:8090/api/submit/tx", "location": "Germany" }
+        { "url": "http://submit-api.nexuspool.org:8090/api/submit/tx", "location": "Germany" }
       ] },
       "TOPO⚡": { "links": [ 
         { "url": "http://public.topopool.com:8090/api/submit/tx", "location": "US - East" }
@@ -121,6 +119,69 @@
       ] },
       "MOAI": { "links": [ 
         { "url": "http://submit.moaipool.com:8090/api/submit/tx", "location": "Germany" }
+      ] },
+      "HOLA": { "links": [ 
+        { "url": "http://192.99.4.206:8090/api/submit/tx", "location": "Canada" }
+      ] },
+      "HEDGE": { "links": [ 
+        { "url": "http://143.198.28.185:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "lido": { "links": [ 
+        { "url": "https://tx.lidonation.com/api/submit/tx", "location": "US - Central" }
+      ] },
+      "CSCS": { "links": [ 
+        { "url": "http://34.198.241.236:8090/api/submit/tx", "location": "US - East" },
+        { "url": "http://54.232.189.129:8090/api/submit/tx", "location": "Brasil" }
+      ] },
+      "DEGAS": { "links": [
+        { "url": "https://api.adacoinz.com/api/submit/tx", "location": "US - East" }
+      ] },      
+      "MNSTR": { "links": [ 
+        { "url": "http://freeloaderz-mnstr-pool-submit.access.ly:8090/api/submit/tx", "location": "US - Midwest" }
+      ] },
+      "46S": { "links": [ 
+        { "url": "http://submit.au.ngrok.io:80/api/submit/tx", "location": "New Zealand" }
+      ] },
+      "JED": { "links": [ 
+        { "url": "https://submit-api.jed.id.au/api/submit/tx", "location": "Australia" }
+      ] },
+      "FAIR": { "links": [ 
+        { "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "location": "Austria" }
+      ] },
+      "MPOL": { "links": [ 
+        { "url": "http://217.28.30.43:8090/api/submit/tx", "location": "Canada" }
+      ] },
+      "LAMP": { "links": [ 
+        { "url": "http://bitlamp.ch:8090/api/submit/tx", "location": "Switzerland" }
+      ] },
+      "LATIN": { "links": [
+        { "url": "http://49.12.109.67:8090/api/submit/tx", "location": "Falkenstein" },
+        { "url": "http://135.181.89.185:8090/api/submit/tx", "location": "Helsinki" },
+        { "url": "http://209.126.81.166:8090/api/submit/tx", "location": "USC1 St Louis" }
+       ] },
+      "RSV": { "links": [ 
+        { "url": "http://38.242.193.215:8090/api/submit/tx", "location": "Germany" }
+       ] },
+      "Faso": { "links": [ 
+        { "url": "http://66.94.119.88:8090/api/submit/tx", "location": "US - Central" }
+      ] },
+      "VLHLA": { "links": [ 
+        { "url": "http://node2.valhallapool.net:8090/api/submit/tx", "location": "Germany" }
+      ] },
+      "T2H": { "links": [ 
+        { "url": "http://relay1.techs2help.ch:8091/api/submit/tx", "location": "Switzerland" }
+      ] },
+      "ADAOZ": { "links": [ 
+        { "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "location": "Frankfurt" }
+      ] },
+      "BBHMM": { "links": [ 
+        { "url": "http://freeloaderz.bbhmm.net:8090/api/submit/tx", "location": "US - East" }
+      ] },
+      "ZIBER": { "links": [
+        { "url": "http://pool.grafleck.com:8090/api/submit/tx", "location": "Canada - Central" }
+      ] },
+      "ANEW": { "links": [
+        { "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "location": "Australia" }
       ] }
     }
   }
