@@ -185,6 +185,9 @@
       ] },
       "N2O": { "links": [
         { "url": "http://88.80.147.114:7878/api/submit/tx", "location": "Bulgaria - Sofia" }
+      ] },
+      "MRP1": { "links": [ 
+        { "url": "http://api0.mainnet.murphystake.com:8090/api/submit/tx", "location": "South America - Perú" }
       ] }
     }
   }
