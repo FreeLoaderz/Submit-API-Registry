@@ -7,7 +7,7 @@ When submitting a pull request please add your information in the following form
         { "url": "https://submit.api.com:port/api/submit/tx", "pool": "Pool Ticker", "location": "location" }
 ```
 
-You can add one or many links. At least one tx will be submitted as a test prior to merge.
+You can add one or many links. At least one tx will be submitted to each endpoint as a test prior to merge.
 
 Don't forget to add a comma to the end of the entry before your addition.
 
