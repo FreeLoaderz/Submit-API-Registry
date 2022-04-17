@@ -54,7 +54,8 @@
 		{ "url": "http://66.94.119.88:8090/api/submit/tx", "pool": "FASO", "location": "US - Central" },
 		{ "url": "http://freeloaderz.bbhmm.net:8090/api/submit/tx", "pool": "BBHMM", "location": "US - East" },
 		{ "url": "http://pool.grafleck.com:8090/api/submit/tx", "pool": "ZIBER", "location": "Canada - Central" },
-		{ "url": "http://api0.mainnet.murphystake.com:8090/api/submit/tx", "pool": "MRP1", "location": "South America - Perú" }
+		{ "url": "http://api0.mainnet.murphystake.com:8090/api/submit/tx", "pool": "MRP1", "location": "South America - Perú" },
+		{ "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US - East" }
     ],
 	"endpoints_EUR": [
 		{ "url": "https://cspa.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Ireland" },
