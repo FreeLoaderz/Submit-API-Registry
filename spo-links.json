@@ -85,7 +85,9 @@
 		{ "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "pool": "ADAOZ", "location": "Frankfurt" },
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
 		{ "url": "http://88.80.147.114:7878/api/submit/tx", "pool": "N2O", "location": "Bulgaria - Sofia" },
-		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" }
+		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
+		{ "url": "http://relay1.techs2help.ch:8090/submit-api/submit/tx", "pool": "T2H", "location": "Switzerland" },
+		{ "url": "http://relay2.techs2help.ch:8091/submit-api/submit/tx", "pool": "T2H", "location": "Switzerland" }
     ]
   }
 }
