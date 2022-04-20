@@ -47,7 +47,7 @@
 		{ "url": "https://tx.lidonation.com/api/submit/tx", "pool": "LIDO", "location": "US - Central" },
 		{ "url": "http://34.198.241.236:8090/api/submit/tx", "pool": "CSCS", "location": "US - East" },
 		{ "url": "http://54.232.189.129:8090/api/submit/tx", "pool": "CSCS", "location": "Brasil" },
-		{ "url": "https://api.adacoinz.com/api/submit/tx", "pool": "DEGAS", "location": "US - East" },
+		{ "url": "https://relay03.adacoinz.com:8090/api/submit/tx", "pool": "COINZ", "location": "US - East" },
 		{ "url": "http://freeloaderz-mnstr-pool-submit.access.ly:8090/api/submit/tx", "pool": "MNSTR", "location": "US - Midwest" },
 		{ "url": "http://217.28.30.43:8090/api/submit/tx", "pool": "MPOL", "location": "Canada" },
 		{ "url": "http://209.126.81.166:8090/api/submit/tx", "pool": "LATIN", "location": "USC1 St Louis" },
