@@ -35,7 +35,7 @@
 		{ "url": "http://freeloader.adanetworks.xyz:8090/api/submit/tx", "pool": "EPOCH", "location": "US - East" },
 		{ "url": "http://45.79.82.195:8090/api/submit/tx", "pool": "STILL", "location": "US - West" },
 		{ "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "pool": "DOT5", "location": "US - East" },
-		{ "url": "http://23.95.44.18:8090/api/submit/tx", "pool": "LSSP", "location": "US - South" },
+		{ "url": "http://23.94.0.66:8090/api/submit/tx", "pool": "LSSP", "location": "US - South" },
 		{ "url": "http://192.3.254.150:8090/api/submit/tx", "pool": "LSSP", "location": "US - East" },
 		{ "url": "http://xebyte.com:8090/api/submit/tx", "pool": "XEBYTE", "location": "US - Central" },
 		{ "url": "https://getajob.adamantium.online/api/submit/tx", "pool": "OTG", "location": "US - East" },
