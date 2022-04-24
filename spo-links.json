@@ -87,7 +87,8 @@
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
 		{ "url": "http://88.80.147.114:7878/api/submit/tx", "pool": "N2O", "location": "Bulgaria - Sofia" },
 		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
-	        { "url": "http://fe-1.adamantium.online:8090/api/submit/tx", "pool": "OTG", "location": "Germany" }
+	        { "url": "http://fe-1.adamantium.online:8090/api/submit/tx", "pool": "OTG", "location": "Germany" },
+	        { "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" }
     ]
   }
 }
