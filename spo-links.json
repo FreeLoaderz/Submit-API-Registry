@@ -170,6 +170,11 @@
       ] },
       "T2H": { "links": [ 
         { "url": "http://relay1.techs2help.ch:8091/api/submit/tx", "location": "Switzerland" }
+      ] },
+      "VOLCY": { "links": [
+        { "url": "http://relaynode3.volcyada.com:3003/api/submit/tx", "location": "MONTREAL-QC" },
+        { "url": "http://relaynode4.volcyada.com:6000/api/submit/tx", "location": "Troy" },
+        { "url": "http://relaynode5.volcyada.com:7000/api/submit/tx", "location": "MONTREAL-QC" }
       ] }
     }
   }
