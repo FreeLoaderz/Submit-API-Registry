@@ -64,6 +64,7 @@
 		{ "url": "https://submitapi.cardano-tools.io/api/submit/tx", "pool": "EURO", "location": "Germany" },
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South East Asia" },
 		{ "url": "http://79.170.252.37:8090/api/submit/tx", "pool": "CBROS", "location": "Europe - Czech Rep." },
+		{ "url": "http://178.72.233.10:8090/api/submit/tx", "pool": "CBROS", "location": "Europe - Czech Rep." },
 		{ "url": "http://18.133.104.22:8090/api/submit/tx", "pool": "RABIT", "location": "UK - London" },
 		{ "url": "http://relay2.ara-stakepool.com/api/submit/tx", "pool": "ARA", "location": "France" },
 		{ "url": "http://stoicpool.ddns.net:8090/api/submit/tx", "pool": "STOIC", "location": "London" },
