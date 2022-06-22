@@ -76,7 +76,7 @@
 		{ "url": "https://relay2.swiftcryptollc.com/api/submit/tx", "pool": "4WARD", "location": "Germany" },
 		{ "url": "http://submit.moaipool.com:8090/api/submit/tx", "pool": "MOAI", "location": "Germany" },
 		{ "url": "http://submit.au.ngrok.io:80/api/submit/tx", "pool": "46S", "location": "New Zealand" },
-		{ "url": "https://submit-api.jed.id.au/api/submit/tx", "pool": "JED", "location": "Australia" },
+		{ "url": "http://152.67.98.33:8090/api/submit/tx", "pool": "JED", "location": "Australia" },
 		{ "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "pool": "FAIR", "location": "Austria" },
 		{ "url": "http://bitlamp.ch:8090/api/submit/tx", "pool": "LAMP", "location": "Switzerland" },
 		{ "url": "http://49.12.109.67:8090/api/submit/tx", "pool": "LATIN", "location": "Falkenstein" },
