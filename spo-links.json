@@ -56,7 +56,9 @@
 		{ "url": "http://pool.grafleck.com:8090/api/submit/tx", "pool": "ZIBER", "location": "Canada - Central" },
 		{ "url": "http://api0.mainnet.murphystake.com:8090/api/submit/tx", "pool": "MRP1", "location": "South America - Perú" },
 		{ "url": "http://54.71.183.80:6723/api/submit/tx", "pool": "ADAR", "location": "US - West" },
-		{ "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US - East" }
+		{ "url": "https://relaynode5.volcyada.com:7000/api/submit/tx", "pool": "VOLCY", "location": "Montreal" }
+		{ "url": "https://relaynode4.volcyada.com:6000/api/submit/tx", "pool": "VOLCY", "location": "US - Troy" }
+	        { "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US - East" }
     ],
 	"endpoints_EUR": [
 		{ "url": "https://cspa.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Ireland" },
