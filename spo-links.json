@@ -38,8 +38,7 @@
 		{ "url": "http://23.94.0.66:8090/api/submit/tx", "pool": "LSSP", "location": "US - South" },
 		{ "url": "http://192.3.254.150:8090/api/submit/tx", "pool": "LSSP", "location": "US - East" },
 		{ "url": "http://xebyte.com:8090/api/submit/tx", "pool": "XEBYTE", "location": "US - Central" },
-		{ "url": "https://getajob.adamantium.online/api/submit/tx", "pool": "OTG", "location": "US - East" },
-		{ "url": "https://db.adamantium.online/c541c8d0451eb23f98c0/api/submit/tx", "pool": "OTG", "location": "US - Central" },
+		{ "url": "http://fe-1.adamantium.online:8090/api/submit/tx", "pool": "OTG", "location": "US - East" },
 		{ "url": "http://public.topopool.com:8090/api/submit/tx", "pool": "TOPO⚡", "location": "US - East" },
 		{ "url": "http://192.99.4.206:8090/api/submit/tx", "pool": "HOLA", "location": "Canada" },
 		{ "url": "http://192.99.4.206:8090/api/submit/tx", "pool": "HOLA", "location": "Canada" },
@@ -91,7 +90,6 @@
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
 		{ "url": "http://88.80.147.114:7878/api/submit/tx", "pool": "N2O", "location": "Bulgaria - Sofia" },
 		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
-	        { "url": "http://fe-1.adamantium.online:8090/api/submit/tx", "pool": "OTG", "location": "Germany" },
 	        { "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" }
     ]
   }
