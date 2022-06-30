@@ -91,7 +91,8 @@
 		{ "url": "http://88.80.147.114:7878/api/submit/tx", "pool": "N2O", "location": "Bulgaria - Sofia" },
 		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
 	        { "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" },
-		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" }
+		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
+		{ "url": "http://submit.cardano-blockhouse.de:8090/api/submit/tx", "pool": "CBH", "location": "Germany" }
     ]
   }
 }
