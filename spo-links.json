@@ -74,7 +74,7 @@
 		{ "url": "http://retropool.ddns.net:8090/api/submit/tx", "pool": "RETRO", "location": "Australia" },
 		{ "url": "http://207.180.243.108:8090/api/submit/tx", "pool": "BLU", "location": "Germany" },
 		{ "url": "http://submit-api.nexuspool.org:8090/api/submit/tx", "pool": "NEXUS", "location": "Germany" },
-		{ "url": "https://relay2.swiftcryptollc.com/api/submit/tx", "pool": "4WARD", "location": "Germany" },
+		{ "url": "http://relay2.swiftcryptollc.com/api/submit/tx", "pool": "4WARD", "location": "Germany" },
 		{ "url": "http://submit.moaipool.com:8090/api/submit/tx", "pool": "MOAI", "location": "Germany" },
 		{ "url": "http://submit.au.ngrok.io:80/api/submit/tx", "pool": "46S", "location": "New Zealand" },
 		{ "url": "http://152.67.98.33:8090/api/submit/tx", "pool": "JED", "location": "Australia" },
@@ -89,10 +89,13 @@
 		{ "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "pool": "ADAOZ", "location": "Frankfurt" },
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
 		{ "url": "http://88.80.147.114:7878/api/submit/tx", "pool": "N2O", "location": "Bulgaria - Sofia" },
-		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
+		{ "url": "http://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
 	        { "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" },
-		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
+		{ "url": "http://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
 		{ "url": "http://submit.cardano-blockhouse.de:8090/api/submit/tx", "pool": "CBH", "location": "Germany" }
     ]
   }
 }
+
+		{ "url": "http://54.176.212.27:8090/api/submit/tx", "pool": "RABIT", "location": "US West California" },
+		{ "url": "http://54.255.24.58:8090/api/submit/tx", "pool": "RABIT", "location": "Singapore" }
