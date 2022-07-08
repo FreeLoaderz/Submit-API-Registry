@@ -58,6 +58,7 @@
 		{ "url": "https://relaynode5.volcyada.com:7000/api/submit/tx", "pool": "VOLCY", "location": "Montreal" }
 		{ "url": "https://relaynode4.volcyada.com:6000/api/submit/tx", "pool": "VOLCY", "location": "US - Troy" }
 	        { "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US - East" }
+		{ "url": "http://38.81.106.173:5847/api/submit/tx", "pool ": "PLOMIN", "location": "US - East" }
     ],
 	"endpoints_EUR": [
 		{ "url": "https://cspa.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Ireland" },
