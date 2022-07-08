@@ -61,9 +61,9 @@
 		{ "url": "http://54.71.183.80:6723/api/submit/tx", "pool": "ADAR", "location": "US-West" },
 		{ "url": "https://relaynode5.volcyada.com:7000/api/submit/tx", "pool": "VOLCY", "location": "Montreal" },
 		{ "url": "https://relaynode4.volcyada.com:6000/api/submit/tx", "pool": "VOLCY", "location": "US-Troy" },
-	    { "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US-East" },
+        	{ "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US-East" },
 		{ "url": "http://54.176.212.27:8090/api/submit/tx", "pool": "RABIT", "location": "US-West" }
-    ],
+        ],
 	"endpoints_EU": [
 		{ "url": "https://cspa.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Ireland" },
 		{ "url": "https://submit-api.apexpool.info/api/submit/tx", "pool": "APEX", "location": "Germany" },
@@ -89,10 +89,10 @@
 		{ "url": "http://relays.techs2help.ch:8091/api/submit/tx", "pool": "T2H", "location": "Switzerland" },
 		{ "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "pool": "ADAOZ", "location": "Frankfurt" },
 		{ "url": "http://88.80.147.114:7878/api/submit/tx", "pool": "N2O", "location": "Bulgaria-Sofia" },
-	    { "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" },
+	        { "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" },
 		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
 		{ "url": "http://submit.cardano-blockhouse.de:8090/api/submit/tx", "pool": "CBH", "location": "Germany" }
-    ],
+        ],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
 		{ "url": "http://retropool.ddns.net:8090/api/submit/tx", "pool": "RETRO", "location": "Australia" },
