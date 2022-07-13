@@ -100,7 +100,7 @@
 		{ "url": "http://152.67.98.33:8090/api/submit/tx", "pool": "JED", "location": "Australia" },
 		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
-		{ "url": "http://54.255.24.58:8090/api/submit/tx", "pool": "RABIT", "location": "Singapore" }
+		{ "url": "http://54.255.24.38:8090/api/submit/tx", "pool": "RABIT", "location": "Singapore" }
 	]
   }
 }
