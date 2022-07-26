@@ -94,6 +94,7 @@
 		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
 		{ "url": "http://submit.cardano-blockhouse.de:8090/api/submit/tx", "pool": "CBH", "location": "Germany" },
 		{ "url": "https://public.euskalstakepool.win/api/submit/tx", "pool": "EUSKL", "location": "France" },
+		{ "url": "http://167.86.124.152:8090/api/submit/tx", "pool": "STLL", "location": "Germany" },
     { "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Germany" }
         ],
 	"endpoints_SG": [
