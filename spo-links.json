@@ -61,7 +61,7 @@
 		{ "url": "http://54.71.183.80:6723/api/submit/tx", "pool": "ADAR", "location": "US-West" },
 		{ "url": "https://relaynode5.volcyada.com:7000/api/submit/tx", "pool": "VOLCY", "location": "Montreal" },
 		{ "url": "https://relaynode4.volcyada.com:6000/api/submit/tx", "pool": "VOLCY", "location": "US-Troy" },
-    { "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US-East" },
+    		{ "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US-East" },
 		{ "url": "http://54.176.212.27:8090/api/submit/tx", "pool": "RABIT", "location": "US-West" },
 		{ "url": "http://usa.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "US-East" }
         ],
@@ -90,11 +90,12 @@
 		{ "url": "http://relays.techs2help.ch:8091/api/submit/tx", "pool": "T2H", "location": "Switzerland" },
 		{ "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "pool": "ADAOZ", "location": "Frankfurt" },
 		{ "url": "http://88.80.147.114:7878/api/submit/tx", "pool": "N2O", "location": "Bulgaria-Sofia" },
-	  { "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" },
+	  	{ "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" },
 		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
 		{ "url": "http://submit.cardano-blockhouse.de:8090/api/submit/tx", "pool": "CBH", "location": "Germany" },
 		{ "url": "https://public.euskalstakepool.win/api/submit/tx", "pool": "EUSKL", "location": "France" },
-    { "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Germany" }
+    		{ "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Germany" },
+		{ "url": "http://152.70.187.66:8090/api/submit/tx", "pool": "ALFA", "location": "Germany" }
         ],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
