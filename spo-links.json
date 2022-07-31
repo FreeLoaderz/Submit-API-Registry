@@ -63,7 +63,8 @@
 		{ "url": "https://relaynode4.volcyada.com:6000/api/submit/tx", "pool": "VOLCY", "location": "US-Troy" },
     		{ "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US-East" },
 		{ "url": "http://54.176.212.27:8090/api/submit/tx", "pool": "RABIT", "location": "US-West" },
-		{ "url": "http://usa.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "US-East" }
+		{ "url": "http://usa.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "US-East" },
+		{ "url": "http://us1.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "US-East" }
         ],
 	"endpoints_EU": [
 		{ "url": "https://cspa.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Ireland" },
@@ -95,10 +96,11 @@
 		{ "url": "http://submit.cardano-blockhouse.de:8090/api/submit/tx", "pool": "CBH", "location": "Germany" },
 		{ "url": "http://public.euskalstakepool.win/api/submit/tx", "pool": "EUSKL", "location": "France" },
     		{ "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Germany" },
-    { "url": "http://167.86.124.152:8090/api/submit/tx", "pool": "STLL", "location": "Germany" },    
+		{ "url": "http://167.86.124.152:8090/api/submit/tx", "pool": "STLL", "location": "Germany" },    
 		{ "url": "http://152.70.187.66:8090/api/submit/tx", "pool": "ALFA", "location": "Germany" },
 		{ "url": "http://65.108.242.194:8090/api/submit/tx", "pool": "EUTXO", "location": "Finland" },
-		{ "url": "http://relay3.zebrastaking.com:8090/api/submit/tx", "pool": "ZEBRA", "location": "Denmark" }
+		{ "url": "http://relay3.zebrastaking.com:8090/api/submit/tx", "pool": "ZEBRA", "location": "Denmark" },
+		{ "url": "http://eu2.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "Germany" }
         ],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
