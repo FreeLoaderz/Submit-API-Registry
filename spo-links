@@ -36,7 +36,7 @@
 		{ "url": "http://143.110.234.149:8090/api/submit/tx", "pool": "ECP", "location": "US-West" },
 		{ "url": "http://20.98.70.24:8090/api/submit/tx", "pool": "BOLD", "location": "US-West" },
 		{ "url": "http://144.126.143.24:8090/api/submit/tx", "pool": "WELL", "location": "US-Central" },
-    { "url": "http://154.53.35.228:8090/api/submit/tx", "pool": "WELL", "location": "US-East" },
+		{ "url": "http://154.53.35.228:8090/api/submit/tx", "pool": "WELL", "location": "US-East" },
 		{ "url": "http://freeloader.adanetworks.xyz:8090/api/submit/tx", "pool": "EPOCH", "location": "US-East" },
 		{ "url": "http://45.79.82.195:8090/api/submit/tx", "pool": "STILL", "location": "US-West" },
 		{ "url": "http://stake.at.dot5stakepool.com:8090/api/submit/tx", "pool": "DOT5", "location": "US-East" },
