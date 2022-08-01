@@ -63,7 +63,8 @@
 		{ "url": "https://relaynode4.volcyada.com:6000/api/submit/tx", "pool": "VOLCY", "location": "US-Troy" },
     		{ "url": "https://submit-na.psilobyte.io/api/submit/tx", "pool": "PSB", "location": "US-East" },
 		{ "url": "http://54.176.212.27:8090/api/submit/tx", "pool": "RABIT", "location": "US-West" },
-		{ "url": "http://usa.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "US-East" }
+		{ "url": "http://usa.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "US-East" },
+		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" }
         ],
 	"endpoints_EU": [
 		{ "url": "https://cspa.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Ireland" },
