@@ -103,7 +103,8 @@
 		{ "url": "http://65.108.242.194:8090/api/submit/tx", "pool": "EUTXO", "location": "Finland" },
 		{ "url": "http://relay3.zebrastaking.com:8090/api/submit/tx", "pool": "ZEBRA", "location": "Denmark" },
 		{ "url": "http://submit.nimuepool.io:2778/api/submit/tx", "pool": "NIMUE", "location": "Germany" },
-		{ "url": "http://eu2.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "Germany" }
+		{ "url": "http://eu2.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "Germany" },
+		{ "url": "http://harmonicrelay.mooo.com:8090/api/submit/tx", "pool": "ARMN", "location": "Europe-Italy" }
         ],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
