@@ -103,7 +103,7 @@
 		{ "url": "http://relay3.zebrastaking.com:8090/api/submit/tx", "pool": "ZEBRA", "location": "Denmark" },
 		{ "url": "http://submit.nimuepool.io:2778/api/submit/tx", "pool": "NIMUE", "location": "Germany" },
 		{ "url": "http://eu1.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "Italy" },
-		{ "url": "http://submit-api.mainnet.dandelion.blockwarelabs.io/api/submit/tx", "pool": "EASY1", "location": "Netherlands" }
+		{ "url": "http://submit-api.mainnet.dandelion.blockwarelabs.io/api/submit/tx", "pool": "EASY1", "location": "Netherlands" },
 		{ "url": "https://relay1.itza.online:443/api/submit/tx", "pool": "ITZA", "location": "Finland" }
         ],
 	"endpoints_SG": [
