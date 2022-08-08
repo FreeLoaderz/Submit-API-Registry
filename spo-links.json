@@ -114,7 +114,8 @@
 		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
 		{ "url": "http://54.255.24.38:8090/api/submit/tx", "pool": "RABIT", "location": "Singapore" },
-		{ "url": "http://aus.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "Australia" }
+		{ "url": "http://aus.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "Australia" },
+		{ "url": "http://api1.adamoon.net/api/submit/tx", "pool": "AMOON", "location": "Japan" }
 	]
   }
 }
