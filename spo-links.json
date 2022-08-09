@@ -69,6 +69,7 @@
 		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" }
         ],
 	"endpoints_EU": [
+		{ "url": "https://flz.greatstakepool.com:8090/submit-api/submit/tx", "pool": "GREAT", "location": "Germany" },
 		{ "url": "https://cspa.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Ireland" },
 		{ "url": "https://168.119.242.175/api/submit/tx", "pool": "APEX", "location": "Germany" },
 		{ "url": "https://submitapi.cardano-tools.io/api/submit/tx", "pool": "EURO", "location": "Germany" },
