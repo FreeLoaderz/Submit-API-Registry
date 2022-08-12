@@ -105,7 +105,8 @@
 		{ "url": "http://submit.nimuepool.io:2778/api/submit/tx", "pool": "NIMUE", "location": "Germany" },
 		{ "url": "http://eu1.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "Italy" },
 		{ "url": "http://submit-api.mainnet.dandelion.blockwarelabs.io/api/submit/tx", "pool": "EASY1", "location": "Netherlands" },
-		{ "url": "https://relay1.itza.online:443/api/submit/tx", "pool": "ITZA", "location": "Finland" }
+		{ "url": "https://relay1.itza.online:443/api/submit/tx", "pool": "ITZA", "location": "Finland" },
+		{ "url": "http://eu2.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "Sweden" }
         ],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
