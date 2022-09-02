@@ -109,7 +109,8 @@
 		{ "url": "https://relay1.itza.online:443/api/submit/tx", "pool": "ITZA", "location": "Finland" },
 		{ "url": "http://eu2.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "Sweden" },
 		{ "url": "http://harmonicrelay.mooo.com:8090/api/submit/tx", "pool": "ARMN", "location": "Europe-Italy" },
-		{ "url": "http://38.242.133.236:8090/api/submit/tx", "pool": "ENVY", "location": "Germany" }
+		{ "url": "http://38.242.133.236:8090/api/submit/tx", "pool": "ENVY", "location": "Germany" },
+		{ "url": "http://api1.adamoon.net/api/submit/tx", "pool": "AMOON", "location": "Helsinki" }
         ],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
@@ -120,7 +121,6 @@
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
 		{ "url": "http://54.255.24.38:8090/api/submit/tx", "pool": "RABIT", "location": "Singapore" },
 		{ "url": "http://aus.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "Australia" },
-		{ "url": "http://api1.adamoon.net/api/submit/tx", "pool": "AMOON", "location": "Japan" },
 		{ "url": "https://asia.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "Japan" },
 		{ "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Japan" }		
 	]
