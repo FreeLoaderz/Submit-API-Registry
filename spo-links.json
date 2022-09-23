@@ -98,7 +98,7 @@
 		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
 		{ "url": "http://submit.cardano-blockhouse.de:8090/api/submit/tx", "pool": "CBH", "location": "Germany" },
 		{ "url": "http://public.euskalstakepool.win/api/submit/tx", "pool": "EUSKL", "location": "France" },
-		{ "url": "http://167.86.124.152:8090/api/submit/tx", "pool": "STLL", "location": "Germany" },
+		{ "url": "http://65.21.201.147:8090/api/submit/tx", "pool": "STLL", "location": "Finland" },
 		{ "url": "http://152.70.187.66:8090/api/submit/tx", "pool": "ALFA", "location": "Germany" },
 		{ "url": "https://eu.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "Finland" },
 		{ "url": "http://relay3.zebrastaking.com:8090/api/submit/tx", "pool": "ZEBRA", "location": "Denmark" },
