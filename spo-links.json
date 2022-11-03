@@ -119,8 +119,8 @@
 		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
 		{ "url": "http://relays.anew.prod.sadaka.io:8090/api/submit/tx", "pool": "ANEW", "location": "Australia" },
 		{ "url": "http://54.255.24.38:8090/api/submit/tx", "pool": "RABIT", "location": "Singapore" },
-		{ "url": "https://au1pay.cnftpool.com/api/submit/tx", "pool": "CNFT", "location": "Australia" },
-		{ "url": "https://au3pay.cnftpool.com/api/submit/tx", "pool": "CNFT", "location": "Australia" },
+		{ "url": "http://pay.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "Australia" },
+		{ "url": "http://pay.cnftpool.com:8091/api/submit/tx", "pool": "CNFT", "location": "Australia" },
 		{ "url": "https://asia.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "Japan" },
 		{ "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Japan" }		
 	]
