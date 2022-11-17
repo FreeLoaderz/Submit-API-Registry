@@ -63,7 +63,8 @@
 		{ "url": "http://54.176.212.27:8090/api/submit/tx", "pool": "RABIT", "location": "US-West" },
 		{ "url": "http://us1.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "US-East" },
 		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" },
-		{ "url": "https://us.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "US-West" }
+		{ "url": "https://us.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "US-West" },
+		{ "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "pool": "RSV", "location": "US-EAST" }
 
         ],
 	"endpoints_EU": [
@@ -87,7 +88,6 @@
 		{ "url": "http://bitlamp.ch:8090/api/submit/tx", "pool": "LAMP", "location": "Switzerland" },
 		{ "url": "http://49.12.109.67:8090/api/submit/tx", "pool": "LATIN", "location": "Falkenstein" },
 		{ "url": "http://135.181.89.185:8090/api/submit/tx", "pool": "LATIN", "location": "Helsinki" },
-		{ "url": "http://38.242.193.215:8090/api/submit/tx", "pool": "RSV", "location": "Germany" },
 		{ "url": "http://relays.techs2help.ch:8090/api/submit/tx", "pool": "T2H", "location": "Switzerland" },
 		{ "url": "http://relays.techs2help.ch:8091/api/submit/tx", "pool": "T2H", "location": "Switzerland" },
 		{ "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "pool": "ADAOZ", "location": "Frankfurt" },
