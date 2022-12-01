@@ -51,7 +51,6 @@
 		{ "url": "http://54.232.189.129:8090/api/submit/tx", "pool": "CSCS", "location": "Brasil" },
 		{ "url": "http://freeloaderz-mnstr-pool-submit.access.ly:8090/api/submit/tx", "pool": "MNSTR", "location": "US-Midwest" },
 		{ "url": "http://217.28.30.43:8090/api/submit/tx", "pool": "MPOL", "location": "Canada" },
-		{ "url": "http://209.126.81.166:8090/api/submit/tx", "pool": "LATIN", "location": "USC1-St-Louis" },
 		{ "url": "http://66.94.119.88:8090/api/submit/tx", "pool": "FASO", "location": "US-Central" },
 		{ "url": "http://freeloaderz.bbhmm.net:8090/api/submit/tx", "pool": "BBHMM", "location": "US-Central" },
 		{ "url": "http://pool.grafleck.com:8090/api/submit/tx", "pool": "ZIBER", "location": "Canada-Central" },
