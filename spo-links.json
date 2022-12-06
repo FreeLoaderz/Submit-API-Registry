@@ -84,7 +84,7 @@
 		{ "url": "http://submit-api.nexuspool.org:8090/api/submit/tx", "pool": "NEXUS", "location": "Germany" },
 		{ "url": "https://relay2.swiftcryptollc.com/api/submit/tx", "pool": "4WARD", "location": "Germany" },
 		{ "url": "http://submit.moaipool.com:8090/api/submit/tx", "pool": "MOAI", "location": "Germany" },
-		{ "url": "https://eu01.submit.fairpool.eu/api/submit/tx", "pool": "FAIR", "location": "Austria" },
+		{ "url": "https://eu-c1.submit.fairpool.eu/api/submit/tx", "pool": "FAIR", "location": "Germany" },
 		{ "url": "http://bitlamp.ch:8090/api/submit/tx", "pool": "LAMP", "location": "Switzerland" },
 		{ "url": "http://49.12.109.67:8090/api/submit/tx", "pool": "LATIN", "location": "Falkenstein" },
 		{ "url": "http://135.181.89.185:8090/api/submit/tx", "pool": "LATIN", "location": "Helsinki" },
