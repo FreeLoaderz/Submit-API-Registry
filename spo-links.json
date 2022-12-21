@@ -107,8 +107,8 @@
 		{ "url": "http://38.242.133.236:8090/api/submit/tx", "pool": "ENVY", "location": "Germany" },
 		{ "url": "http://api1.adamoon.net/api/submit/tx", "pool": "AMOON", "location": "Helsinki" },
 		{ "url": "https://d.submit-api.mainnet.dandelion.link/api/submit/tx", "pool": "PEACE", "location": "France" },
-		{ "url": "http://185.99.253.34:8090/api/submit/tx", "pool": "LSSP", "location": "UK-London" }
-
+		{ "url": "http://185.99.253.34:8090/api/submit/tx", "pool": "LSSP", "location": "UK-London" },
+		{ "url": "http://relay.dexinfo.cc:8090/api/submit/tx", "pool": "DEXI", "location": "Germany" }
 	],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
