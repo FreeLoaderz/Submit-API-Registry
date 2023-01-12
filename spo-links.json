@@ -64,6 +64,8 @@
 		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" },
 		{ "url": "https://us.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "US-West" },
 		{ "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "pool": "RSV", "location": "US-EAST" }
+		{ "url": "http://adaboy-u29ccs.ddnsgeek.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" }
+		{ "url": "http://adaboy-gv9e3q.gleeze.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-East" }
 
         ],
 	"endpoints_EU": [
