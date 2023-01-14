@@ -63,10 +63,9 @@
 		{ "url": "http://us1.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "US-East" },
 		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" },
 		{ "url": "https://us.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "US-West" },
-		{ "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "pool": "RSV", "location": "US-EAST" }
-		{ "url": "http://adaboy-u29ccs.ddnsgeek.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" }
+		{ "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "pool": "RSV", "location": "US-EAST" },
+		{ "url": "http://adaboy-u29ccs.ddnsgeek.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" },
 		{ "url": "http://adaboy-gv9e3q.gleeze.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-East" }
-
         ],
 	"endpoints_EU": [
 		{ "url": "http://flz.greatstakepool.com:8090/api/submit/tx", "pool": "GREAT", "location": "Germany" },
@@ -75,7 +74,7 @@
 		{ "url": "https://submitapi.cardano-tools.io/api/submit/tx", "pool": "EURO", "location": "Germany" },
 		{ "url": "http://79.170.252.37:8090/api/submit/tx", "pool": "CBROS", "location": "Europe-Czech-Rep" },
 		{ "url": "http://178.72.233.10:8090/api/submit/tx", "pool": "CBROS", "location": "Europe-Czech-Rep" },
-		{ "url": "http://relay03.adacoinz.com:8090/api/submit/tx", "pool": "COINZ", "location": "Germany" },		
+		{ "url": "http://relay03.adacoinz.com:8090/api/submit/tx", "pool": "COINZ", "location": "Germany" },
 		{ "url": "http://18.133.104.22:8090/api/submit/tx", "pool": "RABIT", "location": "UK-London" },
 		{ "url": "http://relay2.ara-stakepool.com/api/submit/tx", "pool": "ARA", "location": "France" },
 		{ "url": "http://stoicpool.ddns.net:8090/api/submit/tx", "pool": "STOIC", "location": "London" },
@@ -123,7 +122,7 @@
 		{ "url": "http://pay.cnftpool.com:8090/api/submit/tx", "pool": "CNFT", "location": "Australia" },
 		{ "url": "http://pay.cnftpool.com:8091/api/submit/tx", "pool": "CNFT", "location": "Australia" },
 		{ "url": "https://asia.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "Japan" },
-		{ "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Japan" }		
+		{ "url": "https://submit.api.adahou.se/api/submit/tx", "pool": "ADAHS", "location": "Japan" }
 	]
   }
 }
