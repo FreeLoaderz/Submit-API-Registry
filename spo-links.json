@@ -63,7 +63,6 @@
 		{ "url": "http://us1.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "US-East" },
 		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" },
 		{ "url": "https://us.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "US-West" },
-		{ "url": "https://submit-api.mainnet.dandelion.reservoir.network/api/submit/tx", "pool": "RSV", "location": "US-EAST" },
 		{ "url": "http://adaboy-n28e0q.kozow.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" },
 		{ "url": "http://adaboy-gv9e3q.gleeze.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-East" }
         ],
@@ -109,6 +108,7 @@
 		{ "url": "http://api1.adamoon.net/api/submit/tx", "pool": "AMOON", "location": "Helsinki" },
 		{ "url": "https://d.submit-api.mainnet.dandelion.link/api/submit/tx", "pool": "PEACE", "location": "France" },
 		{ "url": "http://185.99.253.34:8090/api/submit/tx", "pool": "LSSP", "location": "UK-London" },
+		{ "url": "http://grafana.reservoir.network:8090/api/submit/tx", "pool": "RSV", "location": "Germany" },
 		{ "url": "http://relay.dexinfo.cc:8090/api/submit/tx", "pool": "DEXI", "location": "Germany" }
 	],
 	"endpoints_SG": [
