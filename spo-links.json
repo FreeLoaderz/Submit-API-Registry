@@ -63,8 +63,8 @@
 		{ "url": "http://us1.hwlegnano.it:8090/api/submit/tx", "pool": "HWL", "location": "US-East" },
 		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" },
 		{ "url": "https://us.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "US-West" },
-		{ "url": "http://adaboy-n28e0q.kozow.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" },
-		{ "url": "http://adaboy-gv9e3q.gleeze.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-East" }
+		{ "url": "http://adaboy-n28e0q.kozow.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-East" },
+		{ "url": "http://adaboy-u29ccs.ddnsgeek.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" }
         ],
 	"endpoints_EU": [
 		{ "url": "http://flz.greatstakepool.com:8090/api/submit/tx", "pool": "GREAT", "location": "Germany" },
