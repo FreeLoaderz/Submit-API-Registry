@@ -31,7 +31,6 @@
 		{ "url": "https://east.piada.io/freeloaderz", "pool": "PIADA", "location": "US-East" },
 		{ "url": "http://api.cr0ss0ver.com:8090/api/submit/tx", "pool": "ONE", "location": "Canada-Toronto" },
 		{ "url": "http://209.126.82.39:8090/api/submit/tx", "pool": "ENVY", "location": "US-Central" },
-		{ "url": "http://24.12.164.151:8090/api/submit/tx", "pool": "CBROS", "location": "US-Central" },
 		{ "url": "http://antrix-blockchain.com:8090/api/submit/tx", "pool": "ANTRX", "location": "US-Midwest" },
 		{ "url": "http://143.110.234.149:8090/api/submit/tx", "pool": "ECP", "location": "US-West" },
 		{ "url": "http://20.98.70.24:8090/api/submit/tx", "pool": "BOLD", "location": "US-West" },
