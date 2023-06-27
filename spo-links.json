@@ -63,7 +63,8 @@
 		{ "url": "http://rly1.cardano.mylo.farm:8090/api/submit/tx", "pool": "MYLO", "location": "Virginia" },
 		{ "url": "https://us.eutxo.net/api/submit/tx", "pool": "EUTXO", "location": "US-West" },
 		{ "url": "http://hodlr-submit1.gleeze.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-East" },
-		{ "url": "http://hodlr-submit2.gleeze.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" }
+		{ "url": "http://hodlr-submit2.gleeze.com:8090/api/submit/tx", "pool": "HODLR", "location": "US-South" },
+		{ "url": "http://lovelace.hopto.org/api/submit/tx", "JOKER": "JOKER", "Maryland": "US-East" }
         ],
 	"endpoints_EU": [
 		{ "url": "http://flz.greatstakepool.com:8090/api/submit/tx", "pool": "GREAT", "location": "Germany" },
