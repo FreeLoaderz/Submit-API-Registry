@@ -111,7 +111,6 @@
 	],
 	"endpoints_SG": [
 		{ "url": "http://submit.rightstakepool.com:8090/api/submit/tx", "pool": "RIGHT", "location": "South-East-Asia" },
-		{ "url": "http://retropool.ddns.net:8090/api/submit/tx", "pool": "RETRO", "location": "Australia" },
 		{ "url": "http://submit.au.ngrok.io:80/api/submit/tx", "pool": "46S", "location": "New-Zealand" },
 		{ "url": "http://152.67.98.33:8090/api/submit/tx", "pool": "JED", "location": "Australia" },
 		{ "url": "https://cmdp.panl.org/submit-api/submit/tx", "pool": "PANL", "location": "Singapore" },
