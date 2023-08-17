@@ -86,7 +86,6 @@
 		{ "url": "https://eu-c1.submit.fairpool.eu/api/submit/tx", "pool": "FAIR", "location": "Germany" },
 		{ "url": "http://bitlamp.ch:8090/api/submit/tx", "pool": "LAMP", "location": "Switzerland" },
 		{ "url": "http://49.12.109.67:8090/api/submit/tx", "pool": "LATIN", "location": "Falkenstein" },
-		{ "url": "http://135.181.89.185:8090/api/submit/tx", "pool": "LATIN", "location": "Helsinki" },
 		{ "url": "http://submitapi.cardanode.com.au:8090/api/submit/tx", "pool": "ADAOZ", "location": "Frankfurt" },
 	  	{ "url": "http://relays.cardano.fans:9002/api/submit/tx", "pool": "CRFA", "location": "Germany" },
 		{ "url": "https://degashtz.ddns.net/api/submit/tx", "pool": "DEGAS", "location": "Germany" },
